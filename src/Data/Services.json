@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icon": "fa-globe fa fa-3x text-primary mb-4",
+    "name": "WorldWide Tours",
+    "desc": "We have tours available worldwide for you to choose from"
+  },
+  {
+    "id": 2,
+    "icon": "fa-hotel fa fa-3x text-primary mb-4",
+    "name": "Hotel Reservation",
+    "desc": "Full-service hotel booking service catering to customers' needs"
+  },
+  {
+    "id": 3,
+    "icon": "fa-user fa fa-3x text-primary mb-4",
+    "name": "Travel Guides",
+    "desc": "Our highly professional tour guides will ensure your satisfaction"
+  },
+  {
+    "id": 4,
+    "icon": "fa-cog fa fa-3x text-primary mb-4",
+    "name": "Event Management",
+    "desc": "We offer highly professional event planning services tailored to your needs"
+  },
+  {
+    "id": 5,
+    "icon": "fa-globe fa fa-3x text-primary mb-4",
+    "name": "WorldWide Tours",
+    "desc": "We have tours available worldwide for you to choose from"
+  },
+  {
+    "id": 6,
+    "icon": "fa-hotel fa fa-3x text-primary mb-4",
+    "name": "Hotel Reservation",
+    "desc": "Full-service hotel booking service catering to customers' needs"
+  },
+  {
+    "id": 7,
+    "icon": "fa-user fa fa-3x text-primary mb-4",
+    "name": "Travel Guides",
+    "desc": "Our highly professional tour guides will ensure your satisfaction"
+  },
+  {
+    "id": 8,
+    "icon": "fa-cog fa fa-3x text-primary mb-4",
+    "name": "Event Management",
+    "desc": "We offer highly professional event planning services tailored to your needs"
+  }
+]

@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Package 1",
+      "destination": "France",
+      "price": "3500"
+    },
+    {
+      "id": 2,
+      "name": "Package 2",
+      "destination": "Japan",
+      "price": "6000"
+    },
+    {
+      "id": 3,
+      "name": "Package 3",
+      "destination": "Australia",
+      "price": "2200"
+    },
+    {
+      "id": 4,
+      "name": "Package 4",
+      "destination": "Germany",
+      "price": "4200"
+    },
+    {
+      "id": 5,
+      "name": "Package 5",
+      "destination": "Sweden",
+      "price": "2800"
+    },
+    {
+      "id": 6,
+      "name": "Package 6",
+      "destination": "Netherlands",
+      "price": "3700"
+    },
+    {
+      "id": 7,
+      "name": "Package 7",
+      "destination": "Singapore",
+      "price": "1600"
+    },
+    {
+      "id": 8,
+      "name": "Package 8",
+      "destination": "Denmark",
+      "price": "5200"
+    },
+    {
+      "id": 9,
+      "name": "Package 9",
+      "destination": "Ireland",
+      "price": "1200"
+    },
+    {
+      "id": 10,
+      "name": "Package 10",
+      "destination": "Switzerland",
+      "price": "4200"
+    }
+]
