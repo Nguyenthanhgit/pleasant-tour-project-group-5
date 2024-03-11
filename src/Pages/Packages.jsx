@@ -61,7 +61,6 @@ function Packages({ handleAdd }) {
                       <small className="flex-fill text-center border-end py-2">
                         <i className="fa fa-calendar-alt text-primary me-2" />
                         {item.days}
-                        days
                       </small>
                       <small className="flex-fill text-center py-2">
                         <i className="fa fa-user text-primary me-2" />

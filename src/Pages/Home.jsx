@@ -315,10 +315,7 @@ function Home({ handleAdd }) {
                   <h5 className="mt-4">Choose A Destination</h5>
                   <hr className="w-25 mx-auto bg-primary mb-1" />
                   <hr className="w-50 mx-auto bg-primary mt-0" />
-                  <p className="mb-0">
-                    Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                    diam eos erat ipsum et lorem et sit sed stet lorem sit
-                  </p>
+                  <p className="mb-0">Please choose a suitable location</p>
                 </div>
               </div>
               <div
@@ -336,8 +333,7 @@ function Home({ handleAdd }) {
                   <hr className="w-25 mx-auto bg-primary mb-1" />
                   <hr className="w-50 mx-auto bg-primary mt-0" />
                   <p className="mb-0">
-                    Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                    diam eos erat ipsum et lorem et sit sed stet lorem sit
+                    You can make payment online for convenience.
                   </p>
                 </div>
               </div>
@@ -356,8 +352,7 @@ function Home({ handleAdd }) {
                   <hr className="w-25 mx-auto bg-primary mb-1" />
                   <hr className="w-50 mx-auto bg-primary mt-0" />
                   <p className="mb-0">
-                    Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                    diam eos erat ipsum et lorem et sit sed stet lorem sit
+                    Please choose the date and time you would like to fly
                   </p>
                 </div>
               </div>
